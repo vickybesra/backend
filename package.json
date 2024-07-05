@@ -1,0 +1,16 @@
+{
+  "name": "vicky_backend",
+  "version": "1.0.0",
+  "description": "to deploy app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "dotnet": "^1.1.4",
+    "express": "^4.19.2"
+  }
+}
